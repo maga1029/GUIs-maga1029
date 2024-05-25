@@ -29,7 +29,7 @@ categorias_puntos = 5
 excel_file = pandas.read_excel("file_excel_questions")  # Insert direct link here.
 txt_file = "instructions_file"  # Insert .txt file complete link here.
 
-categorias = ["Disoluciones", "Ácido-Base", "Solubilidad", "Redox"]
+categorias = ["Category 1", "Category 2", "Category 3", "Category 4"]
 
 preguntas_tot = 76  # Preguntas totales del archivo de Excel.
 columnas_tot = 7  # Elementos del vector de cada pregunta. No cambiar a menos que el formato del Excel cambie.
